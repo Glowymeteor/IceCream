@@ -3,7 +3,7 @@
     <Layout>
 
         <h1 class="text-4xl font-bold">
-            Settings
+            Settings n shit
         </h1>
 
 
