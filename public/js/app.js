@@ -19695,7 +19695,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h1", {
   "class": "text-4xl font-bold"
-}, " Settings n shit ", -1
+}, " Settings ", -1
 /* HOISTED */
 );
 

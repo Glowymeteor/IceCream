@@ -3,7 +3,7 @@
     <Layout>
 
         <h1 class="text-4xl font-bold">
-            Settings n shit
+            Settings
         </h1>
 
 
@@ -28,5 +28,4 @@
         },
     };
   </script>
-
 
